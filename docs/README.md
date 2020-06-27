@@ -51,6 +51,8 @@ git status
 git add .
 # 添加文件
 git commit -am "add a beautiful place"
-
+# 提交到本地
+git push
+# 推送到远程
 ```
 
